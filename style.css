@@ -7,8 +7,5 @@ h2 {color: #023e8a; background-color: #ade8f4; border: solid blue;}
 
 .container {
 	display: flex;
-}
-
-.container > * {
-	border: 2px navy blue;
+	border: 2px solid navy blue;
 }
