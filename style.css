@@ -5,7 +5,7 @@ dl {color: #03045e;}
 h1 {color: #023e8a; background-color: #ade8f4; border: dashed blue;}
 h2 {color: #023e8a; background-color: #ade8f4; border: solid blue;}
 
-p {
-	border: 2px solid navy;
-	margin: 0;
+.box {
+  display: flex;
+  justify-content: space-between;
 }
