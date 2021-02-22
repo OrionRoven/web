@@ -9,3 +9,18 @@ h2 {color: #023e8a; background-color: #ade8f4; border: solid blue;}
   display: flex;
   justify-content: space-between;
 }
+
+.box1 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.box2 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.box3 {
+  display: flex;
+  justify-content: space-between;
+}
