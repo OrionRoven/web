@@ -11,5 +11,4 @@ h2 {color: #023e8a; background-color: #ade8f4; border: solid blue;}
 
 .box > div {
 	flex: 1;
-	border: 2px solid navy;
 }
