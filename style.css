@@ -5,10 +5,11 @@ dl {color: #03045e;}
 h1 {color: #023e8a; background-color: #ade8f4; border: dashed blue;}
 h2 {color: #023e8a; background-color: #ade8f4; border: solid blue;}
 
-.wrapper {
+.box {
   display: flex;
 }
 
-.wrapper > div {
+.box > div {
 	flex: 1;
+	border: 2px solid navy;
 }
